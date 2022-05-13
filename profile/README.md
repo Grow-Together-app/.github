@@ -19,13 +19,13 @@ The purpose of this app is to help those just getting started in a new field by 
 
 ## Repos
 
-[Native Mobile App](https://github.com/Grow-Together/frontend-react-native)
+[Native Mobile App](https://github.com/Grow-Together-app/frontend-react-native)
 
-[Desktop Web App](https://github.com/Grow-Together/frontend-react-desktop)
+[Desktop Web App](https://github.com/Grow-Together-app/frontend-react-desktop)
 
-[Mongo Database and Server](https://github.com/Grow-Together/backend-node-mongoDB)
+[Mongo Database and Server](https://github.com/Grow-Together-app/backend-node-mongoDB)
 
-[Design and Planning](https://github.com/Grow-Together/.github/blob/main/README.md)
+[Design and Planning](https://github.com/Grow-Together-app/.github/blob/main/README.md)
 
 ## Useful resources
 
