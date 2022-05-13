@@ -2,7 +2,7 @@ Grow: Together
 
 An app designed to connect newbies of all kinds with each other and with veterans of their trade by faciliating connections, collaborations, and mentoring.
 
-The purpose of this app is to help those just getting started in a new field by connecting budding professionals with peers and mentors for the purpose of networking, collaborating, and mentoring in order to help all parties to grow in competence and confidence as well as learning new skills.  The end goal is that everyone can get the expierence and help they need to succeed. Let's all grow our together!
+The purpose of this app is to help those just getting started in a new field by connecting budding professionals with peers and mentors for the purpose of networking, collaborating, and mentoring in order to help all parties to grow in competence and confidence as well as learning new skills.  The end goal is that everyone can get the expierence and help they need to succeed. Let's all grow together!
 
 ## Quicklinks
 
